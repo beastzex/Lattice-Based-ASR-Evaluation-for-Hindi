@@ -125,6 +125,3 @@ For in-depth explanation of the theoretical framework, alignment algorithm, voti
 
 Internal project for research purposes.
 
-## Contact
-
-For questions or issues related to this evaluation framework, refer to the detailed technical report in **Task_4_Report.md**.
