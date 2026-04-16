@@ -1,0 +1,7 @@
+﻿Model,Standard WER (%),Lattice WER (%),WER Reduction (pp),Verdict
+Model H,3.31,2.24,1.08,Unfairly penalised - corrected
+Model i,0.0,0.0,0.0,Unchanged / worse
+Model k,8.1,6.22,1.87,Unfairly penalised - corrected
+Model l,10.66,9.26,1.4,Unfairly penalised - corrected
+Model m,19.56,16.06,3.5,Unfairly penalised - corrected
+Model n,10.32,7.13,3.19,Unfairly penalised - corrected
